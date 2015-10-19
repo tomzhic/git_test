@@ -4,6 +4,7 @@ int main()
 {
   int cnt=0;
 
+  cnt++;
   printf("hello, world.\n");
 
   return 0;
