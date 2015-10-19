@@ -4,7 +4,7 @@ int main()
 {
   int cnt=0;
 
-  cnt += 2;
+  cnt = cnt + 1;
   printf("hello, world.\n");
 
   return 0;
